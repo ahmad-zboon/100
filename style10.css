@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+header {
+    height: 500px;
+    background-image: url(coffee101.jpeg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    background-color: black;
+    margin-top: 10%;
+    margin-left: 700px;
+    width: 400px;
+    font-size: 40px;
+}
+
+header nav ul {
+    width: 100%;
+    padding: 15px;
+    background-color: black;
+    margin: 0%;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 190px
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#first {
+    text-align: center;
+    width: 70%;
+    height: 300px;
+    margin: 30px 0 30px 15%;
+}
+
+#first h3 {
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    background-color: black;
+    width: 300px;
+    margin-left: 35%;
+}
+
+#Second {
+    text-align: center;
+    width: 70%;
+    height: 300px;
+    margin: 30px 0 30px 15%;
+}
+
+#Second h4 {
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    background-color: black;
+    width: 300px;
+    margin-left: 35%;
+}
+
+footer {
+    padding: 15px;
+    background-color: black;
+    margin: 0%;
+}
+
+footer ul li {
+    list-style: none;
+    display: inline block;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+    margin-left: 45%;
+}
+
+© 2021 GitHub,
+Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About
